@@ -41,7 +41,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  /* border: 3px solid #4a15ad; */
   padding: 0.5% 1%;
   border-radius: 40px;
   cursor: pointer;
@@ -51,7 +50,6 @@
 
 .btn:hover {
   background-color: rgba(255, 255, 255, 0.4);
-  /* border: 3px solid #fff; */
 }
 
 .btn:active {
